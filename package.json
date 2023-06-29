@@ -1,0 +1,19 @@
+{
+  "name": "vcb_discordbot",
+  "version": "1.0.0",
+  "description": "The discord bot for virtual-community-blacklist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtual-community-blacklist/discord.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/virtual-community-blacklist/discord/issues"
+  },
+  "homepage": "https://github.com/virtual-community-blacklist/discord#readme"
+}
